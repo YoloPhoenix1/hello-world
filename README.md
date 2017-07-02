@@ -1,2 +1,6 @@
 # hello-world
-git tutorial
+
+
+Hellow Hoomans!
+
+C'est moi. A new aspiring computer student. 
